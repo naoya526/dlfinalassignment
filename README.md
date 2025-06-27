@@ -1,4 +1,6 @@
 ## deeplearning final assignment
+this is the instruction of how to use ALE environment and gymnasium.
+please follow the procedure below.
 
 ### Gameplay Preview
 
