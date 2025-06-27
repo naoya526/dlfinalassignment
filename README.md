@@ -1,5 +1,9 @@
 ## deeplearning final assignment
 
+### 🎮 Gameplay Preview
+
+![Breakout gameplay](movie/blockgame.gif)
+
 ### environment
 
 - python 3.10
@@ -21,6 +25,7 @@ https://ale.farama.org/getting-started/
 
 ### 2.Install AutoROM to download Atari ROMs
 next, you need to install AutoROM
+
 ```bash
 pip install autorom
 ```
@@ -47,3 +52,17 @@ python play_human.py
 - →: Move right
 - Space: Fire (start the game)
 - Close window to exit
+
+
+## 📄 Licenses of Dependencies
+
+This project uses the following open-source libraries:
+
+| Library       | License         | Link                                 |
+|---------------|------------------|--------------------------------------|
+| gymnasium     | MIT              | https://github.com/Farama-Foundation/Gymnasium/blob/main/LICENSE |
+| ale-py        | BSD-2-Clause     | https://github.com/Farama-Foundation/ALE-py/blob/main/LICENSE      |
+| pygame        | LGPL             | https://www.pygame.org/license.html                                 |
+| numpy         | BSD              | https://numpy.org/doc/stable/license.html                           |
+
+Please refer to the linked license files for more details.
