@@ -1,6 +1,6 @@
 ## deeplearning final assignment
 
-### 🎮 Gameplay Preview
+### Gameplay Preview
 
 ![Breakout gameplay](movie/blockgame.gif)
 
