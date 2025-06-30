@@ -62,9 +62,9 @@ This project uses the following open-source libraries:
 
 | Library       | License         | Link                                 |
 |---------------|------------------|--------------------------------------|
-| gymnasium     | MIT              | https://github.com/Farama-Foundation/Gymnasium/blob/main/LICENSE |
-| ale-py        | BSD-2-Clause     | https://github.com/Farama-Foundation/ALE-py/blob/main/LICENSE      |
-| pygame        | LGPL             | https://www.pygame.org/license.html                                 |
-| numpy         | BSD              | https://numpy.org/doc/stable/license.html                           |
+| gymnasium     | MIT              |  |
+| ale-py        | BSD-2-Clause     |  |
+| pygame        | LGPL             |  |
+| numpy         | BSD              |  |
 
 Please refer to the linked license files for more details.
